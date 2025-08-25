@@ -1,0 +1,3 @@
+name : tuba martthing
+nicneme : ba
+age : 20
